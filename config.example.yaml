@@ -1,0 +1,10 @@
+# You need to provide your own etherscan and twitter config data and rename this file to config.yaml
+
+etherscan:
+  api-key: XXX
+
+twitter:
+  consumer-key: XXX
+  consumer-secret: XXX
+  access-token: XXX
+  access-token-secret: XXX
